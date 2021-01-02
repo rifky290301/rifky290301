@@ -8,8 +8,9 @@
 
 ### “Laki-laki yang mencuri dan perempuan yang mencuri, potonglah tangan keduanya (sebagai) pembalasan bagi apa yang mereka kerjakan dan sebagai siksaan dari Allah. Dan Allah Maha Perkasa lagi Maha Bijaksana” (QS. Al Maidah: 38).
 
-# GUYOOOON WKWKWK GK USAH SERIUS-SEIRUS  
+# GUYOOOON WKWKWK GK USAH SERIUS-SERIUS 🤣 🤣 🤣
 
+# GPP MINIMAL HARI IKI WS MOCO AYAT ALQURAN YO TOO
 # MASUK PO RAAA
 
 
