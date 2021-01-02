@@ -1,4 +1,4 @@
-### Hi there 👋
+# KALO MAU CLO IZIN DULU YAAA :) 😄
 
 <!--
 **rifky290301/rifky290301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
