@@ -1,4 +1,4 @@
-# IDIIIH... STALKING GITHUB E WONG 🤣 🤣 🤣 
+# Idiih... stalking githube e wong 🤣 🤣 🤣 
 
 # KALO MAU CLONE IZIN DULU YAAA :) 🤗
 
@@ -10,8 +10,8 @@
 
 # GUYOOOON WKWKWK GK USAH SERIUS-SERIUS 🤣 🤣 🤣
 
-# GPP MINIMAL HARI IKI WS MOCO AYAT ALQURAN YO TOO
-# MASUK PO RAAA
+# GPP minimal hari iki ws moco Al-Qur'an yoo too
+# MASUK PO RAAA...!!!
 
 
 <!--
