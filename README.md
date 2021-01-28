@@ -15,4 +15,4 @@
 # GPP minimal hari iki ws moco Al-Qur'an yoo too
 # MASUK PO RAAA...!!!
 
-![Alt Text](http://tumblr.4gifs.com/post/84766399414/cat-shaq-wiggles)
+![Alt Text](https://giphy.com/embed/13CoXDiaCcCoyk)
