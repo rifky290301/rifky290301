@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 # Idiih... stalking githube e wong 🤣 🤣 🤣 
 
 # KALO MAU CLONE IZIN DULU YAAA :) 🤗
@@ -13,5 +15,4 @@
 # GPP minimal hari iki ws moco Al-Qur'an yoo too
 # MASUK PO RAAA...!!!
 
-
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](http://tumblr.4gifs.com/post/84766399414/cat-shaq-wiggles)
