@@ -15,4 +15,4 @@
 # GPP minimal hari iki ws moco Al-Qur'an yoo too
 # MASUK PO RAAA...!!!
 
-![Alt Text](https://giphy.com/embed/13CoXDiaCcCoyk)
+![Alt Text](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
