@@ -1,6 +1,6 @@
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
-# Idiih... stalking githube e wong 🤣 🤣 🤣 
+# Hii ada yang stalking nich 🤣 🤣 🤣 
 
 # KALO MAU CLONE IZIN DULU YAAA :) 🤗
 
@@ -10,12 +10,11 @@
 
 ### “Laki-laki yang mencuri dan perempuan yang mencuri, potonglah tangan keduanya (sebagai) pembalasan bagi apa yang mereka kerjakan dan sebagai siksaan dari Allah. Dan Allah Maha Perkasa lagi Maha Bijaksana” (QS. Al Maidah: 38).
 
-# GUYOOOON WKWKWK GK USAH SERIUS-SERIUS 🤣 🤣 🤣
+# BECANDA-BECANDA 🤣 🤣 🤣
 
-# GPP minimal hari iki ws moco Al-Qur'an yoo too
+# GPP minimal hari ini sudah baca Al-Qur'an
 # MASUK PO RAAA...!!!
 
 ![Alt Text](https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif)
-![Alt Text](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 ![Alt Text](https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif)
 
