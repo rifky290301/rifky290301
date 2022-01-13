@@ -55,9 +55,9 @@ up my own startup.
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifky290301&theme=algolia)](https://git.io/praveenscience)
+[![Rifky's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifky290301&bg_color=000000&color=4fff67&line=00adfe&point=ffffff&area=true&hide_border=true)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=rifky290301&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifky290301&theme=algolia) |
+| ![Rifky's github stats](https://github-readme-stats.vercel.app/api?username=rifky290301&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifky290301&theme=algolia) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifky290301&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rifky290301&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
 
