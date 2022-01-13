@@ -55,7 +55,7 @@ up my own startup.
 <br>
   <br>
   
-[![Rifky's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifky290301&bg_color=000000&color=4fff67&line=00adfe&point=ffffff&area=true&hide_border=true)](https://git.io/praveenscience)
+[![Rifky's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifky290301&bg_color=050f2c&color=00adfe&line=00adfe&point=ffffff&area=true&hide_border=true)](https://git.io/praveenscience)
 
 | ![Rifky's github stats](https://github-readme-stats.vercel.app/api?username=rifky290301&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifky290301&theme=algolia) |
 | --- | --- |
