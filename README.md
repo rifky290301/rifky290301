@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="https://media-exp1.licdn.com/dms/image/C5616AQHAb13_rslHEA/profile-displaybackgroundimage-shrink_350_1400/0/1641565503110?e=1660780800&v=beta&t=7M-bxFZbmwnPSn5v_UWcISUeAOFxlSouQ3RabCCZTcw">
+    <img width="100%" src="https://media-exp1.licdn.com/dms/image/C5616AQHAb13_rslHEA/profile-displaybackgroundimage-shrink_350_1400/0/1641565503110?e=1660780800&v=beta&t=7M-bxFZbmwnPSn5v_UWcISUeAOFxlSouQ3RabCCZTcw">
 </p>
 
 <h1> Hello Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
