@@ -1,68 +1,50 @@
+
 <p align="center">
-    <img width="100%" src="https://media-exp1.licdn.com/dms/image/C5616AQHAb13_rslHEA/profile-displaybackgroundimage-shrink_350_1400/0/1641565503110?e=1660780800&v=beta&t=7M-bxFZbmwnPSn5v_UWcISUeAOFxlSouQ3RabCCZTcw">
+    <img width="100%" hight="50%" src="https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg">
 </p>
 
-<h1> Hello Developers! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# Hi there! 👋 Welcome to My GitHub Profile  
 
+I'm **Rifky**, a passionate **Mobile Developer** with a focus on **Flutter**, **Swift**, and **Kotlin**. I enjoy building intuitive, high-performance mobile applications and exploring innovative technologies.  
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=rifky290301.rifky290301)
-[![Github](https://img.shields.io/github/followers/rifky290301?label=Follow&style=social)](https://github.com/rifky290301)
+---
 
-<div size='20px'> Hello, I'm Rifky, a 6th semester student at the University of Jember. I entered this programming world 
-starting in 2019. For my experience, maybe it's still lacking. But I am a hard worker. And I have a dream to set 
-up my own startup. 
-</div>
+## 🚀 About Me
+- 🔭 **Currently open to work**
+- 🌱 **Learning**: Web3 Development with Solidity & Flutter integration.
+- 👯 **Looking to collaborate on**: Mobile and Web development projects.
+- 💬 **Ask me about**: Flutter, State Management, API Integration, and Mobile Design Patterns.
+- 📫 **How to reach me**: rifky290301@gmail.com.
+- ⚡ **Fun fact**: I can turn coffee into code faster than you can say "refactor"! ☕
 
-<!-- <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+---
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+## 🛠️ Skills and Tools
+### Programming Languages
+- 🖥️ Dart, Swift, Kotlin, JavaScript, PHP
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles. -->
+### Frameworks & Libraries
+- 📱 Flutter, Nuxt, Provider, Bloc, GetX
 
-<!-- <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/rifky290301?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a> -->
+### Tools
+- 🔧 GitLab & GitHub, TablePlus, Postman, Ganache, VSCode, Xcode
+- 🎨 Figma for UI/UX Design
 
+### Cloud
+- ☁️ Google Cloud, AWS (Basics), Firebase Hosting
 
-<!-- <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://rifky290301.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/rifky290301'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-   -->
-<br>
-<br>
-  <br>
-  
-[![Rifky's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rifky290301&bg_color=050f2c&color=00adfe&line=00adfe&point=ffffff&area=true&hide_border=true)](https://git.io/praveenscience)
+---
 
-| ![Rifky's github stats](https://github-readme-stats.vercel.app/api?username=rifky290301&show_icons=true&theme=algolia) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rifky290301&theme=algolia) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifky290301&theme=algolia) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rifky290301&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
+## ✨ GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rifky290301&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifky290301&layout=compact&theme=radical)  
 
-<br>
+---
 
+## 🌐 Connect with Me
+- 🌍 **LinkedIn**: [linkedin.com/in/rifky-martha-hadian-firmana](https://www.linkedin.com/in/rifky-martha-hadian-firmana/)  
+- 📧 **Email**: rifky290301@gmail.com
 
------
-[Rifky Martha Hadian Firmana](https://github.com/rifky290301)
+---
+
+Feel free to explore my repositories and reach out for any collaboration or ideas. 🚀 Let's build amazing things together!
