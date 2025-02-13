@@ -10,7 +10,7 @@ I'm **Rifky**, a passionate **Mobile Developer** with a focus on **Flutter**, **
 ---
 
 ## 🚀 About Me
-- 🔭 **Currently open to work**
+- 🔭 **I am currently working at DGW Group**
 - 🌱 **Learning**: Web3 Development with Solidity & Flutter integration.
 - 👯 **Looking to collaborate on**: Mobile and Web development projects.
 - 💬 **Ask me about**: Flutter, State Management, API Integration, and Mobile Design Patterns.
